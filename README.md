@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hey there, I'm tyce!
+# Hey there 👋, I'm tyce!
+
 
 ```
 ╔═══════════════════════════════════════╗
