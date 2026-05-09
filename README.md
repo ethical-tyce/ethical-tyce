@@ -12,7 +12,7 @@
 
 ---
 
-### `whoami`
+### `whoami.cpp`
 
 ```cpp
 #include <iostream>
@@ -33,7 +33,7 @@ int main() {
 
 ---
 
-### `ls ~/projects`
+### `Projects:`
 
 | project | description |
 |--------|-------------|
@@ -41,7 +41,7 @@ int main() {
 
 ---
 
-### `cat skills.txt`
+### `Languages I use:`
 
 <div align="left">
 
@@ -57,7 +57,7 @@ int main() {
 
 ---
 
-### `git log --oneline`
+### `Stats`
 
 <div align="center">
 
@@ -81,6 +81,6 @@ int main() {
 
 <div align="center">
 
-*`// always compiling, rarely segfaulting`*
+*`// Always building, never succeeding.`*
 
 </div>
