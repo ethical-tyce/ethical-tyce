@@ -65,6 +65,8 @@ int main() {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ethical-tyce&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ethical-tyce)
 
+![Snake](https://raw.githubusercontent.com/ethical-tyce/ethical-tyce/output/snake-dark.svg)
+
 </div>
 
 ---
