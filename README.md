@@ -2,6 +2,8 @@
 
 ## Hey there 👋, I'm tyce!
 
+![Snake](https://raw.githubusercontent.com/ethical-tyce/ethical-tyce/output/snake-dark.svg)
+
 ```
 ╔═══════════════════════════════════════╗
 ║   C:\Users\ethical-tyce>              ║
@@ -60,8 +62,6 @@ int main() {
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
-
-
 </div>
 
 ---
@@ -73,8 +73,6 @@ int main() {
 ![GitHub Streak](https://streak-stats.demolab.com?user=ethical-tyce&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ethical-tyce&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ethical-tyce)
-
-![Snake](https://raw.githubusercontent.com/ethical-tyce/ethical-tyce/output/snake-dark.svg)
 
 </div>
 
