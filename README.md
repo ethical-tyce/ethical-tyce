@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hey there, I'm tyce!
+
 ```
 ╔═══════════════════════════════════════╗
 ║   C:\Users\ethical-tyce>              ║
