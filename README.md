@@ -37,7 +37,7 @@ int main() {
 
 ---
 
-### `Projects:`
+### `Main Projects:`
 
 | project | description |
 |--------|-------------|
