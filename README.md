@@ -74,20 +74,4 @@ int main() {
 
 </div>
 
----
 
-### `ping me`
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/github-ethical--tyce-181717?style=flat-square&logo=github)](https://github.com/ethical-tyce)
-
-</div>
-
----
-
-<div align="center">
-
-*`// Always building, never succeeding.`*
-
-</div>
