@@ -35,35 +35,6 @@ int main() {
 }
 ```
 
----
-
-### `Main Projects:`
-
-| project | description |
-|--------|-------------|
-| **[Wapi](https://github.com/ethical-tyce/wapi)** | 🔧 work in progress. watch this space. |
-
----
-
-### `Things I use:`
-
-<div align="center">
-    
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-
-
-
-
-</div>
-
----
-
 ### `Stats`
 
 <div align="center">
